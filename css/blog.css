@@ -1,0 +1,23 @@
+.page {
+	width: 85%;
+	height: 350px;
+	border: 1px solid gray;
+	box-shadow: 3px 5px 15px 2px;
+	margin: 50px;
+	padding: 20px 20px;
+}
+
+.page img {
+	float: left;
+	margin-right: 20px;
+}
+
+h2 {
+	margin-bottom: 40px;
+}
+
+.heading {
+	padding-bottom: 10px;
+	padding-right: 30px;
+}
+
