@@ -1,0 +1,33 @@
+iframe, .page > img {
+	float: right;
+	margin-top: 20px;
+}
+
+.page {
+	height: 480px;
+	background-image: url('../img/frozen.jpg');
+	color: white;
+}
+
+code {
+	background-color: blue;
+}
+
+.page > p {
+	margin-top: 5px;
+	margin-bottom: 30px;
+	font-style: italic;
+}
+
+h2 {
+	font-family: Alata, sans-serif;
+}
+
+hr {
+	width: 600px;
+}
+
+.page > img {
+	margin-right: 70px;
+	border: 1px solid black;
+}
