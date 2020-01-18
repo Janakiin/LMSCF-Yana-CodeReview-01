@@ -13,7 +13,15 @@
 	border-radius: 100px;
 	padding-left: 10px;
 	color: black;
-	margin-left: 120px;
+}
+
+.contacts input:nth-child(5) {
+	height: 60px;
+	border-radius: 15px;
+}
+
+.contacts p {
+	margin-top: 15px;
 }
 
 button{
